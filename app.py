@@ -1,4 +1,4 @@
-import bookcontroller
+from BLL import bookcontroller
 from helper import print_book_detail, input_book_details, print_book_search
 
 def menu():
